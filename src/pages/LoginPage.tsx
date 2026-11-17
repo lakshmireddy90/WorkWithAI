@@ -130,7 +130,7 @@ const LoginPage = () => {
           </div>
 
           <h1 className="text-3xl font-bold tracking-tight text-slate-900">
-            Welcome To Ai World
+            Welcome to the AI Tools
           </h1>
 
           <p className="mt-2 text-sm text-slate-500">
